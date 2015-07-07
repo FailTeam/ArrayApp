@@ -26,8 +26,10 @@ public class ArrayListClass
         System.out.println("Sample city is " + sample_city_name); 
         System.out.println("Sample city is in state" + sample_state_name ); 
         System.out.println("Sample city is of population " + sample_city_population); 
-        
+       
+        //insert your own state
         state = "Washington";
+        
         arrayOperation1(state);
         
 	try 
